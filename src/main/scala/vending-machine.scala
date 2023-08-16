@@ -54,4 +54,4 @@ class VendingMachine {
     else proteinBar -= 1
   }
 
-}
+} 
